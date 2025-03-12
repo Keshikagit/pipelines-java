@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  vmImage: 'keshikaagentpool'
+  vmImage: 'agent1'
 
 steps:
 - task: Maven@3
